@@ -22,3 +22,5 @@ A lightweight GTA IV (CitizenIV) resource to define polygonal zones and detect i
 - You can copy/export the generated polygon and reuse it in any logic.
 - Works best for turf systems, illegal zones, and map interaction zones.
 ****
+
+[Preview])(https://streamable.com/9mjb0k)
