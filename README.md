@@ -23,4 +23,4 @@ A lightweight GTA IV (CitizenIV) resource to define polygonal zones and detect i
 - Works best for turf systems, illegal zones, and map interaction zones.
 ****
 
-[Preview])(https://streamable.com/9mjb0k)
+[Preview](https://streamable.com/9mjb0k)
