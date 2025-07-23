@@ -15,7 +15,7 @@ A lightweight GTA IV (CitizenIV) resource to define polygonal zones and detect i
 
 ## Setup
 1. Place the resource folder inside your `resources` directory.
-2. Add `start polyzone` to your `server.cfg`.
+2. Add `- polyzone` to your `citmp-server.yml`.
 3. Modify the polygon coordinates as needed.
 
 ## Notes
